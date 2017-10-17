@@ -1,14 +1,17 @@
-x, y, z = 3, 2, 1
+x = int(input('Enter x number: '))
+y = int(input('Enter y number: '))
+z = int(input('Enter z number: '))
 
-if(x % 2 == 1 and
-   x >= y and
-   x >= z):
-    print(x)
-elif (y % 2 == 1 and
-      y >= x and
-      y >= z):
-    print(y)
-elif (z % 2 == 0):
-    print(z)
+numbers = []
+
+if x % 2 == 1:
+    numbers.append(x)
+if y % 2 == 1:
+    numbers.append(y)
+if z % 2 == 1:
+    numbers.append(z)
+
+if len(numbers) > 0:
+    print(max(numbers))
 else:
-    print('No odd values')
+    print('No provided odd values')
