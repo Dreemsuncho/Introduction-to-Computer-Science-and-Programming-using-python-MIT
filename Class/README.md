@@ -11,13 +11,9 @@ Write a program that does the following in order:
 3. Prints out number “x”, raised to the power “y”. 
 4. Prints out the log (base 2) of “x”.  
 
-Use Spyder to create your program, and save your code in a file named ‘ps0.py’. An example of an interaction with your program is shown below. The words printed in blue are ones the computer should print, based on your commands, while the words in black are an example of a user's input. The colors are simply here to help you distinguish the two components. 
+Enter number x: 2
+Enter number y: 3 
+X**y =  8
+log(x) = 1
 
-
-<span style="color:skyblue;">Enter number x:</span> 2
-<span style="color:skyblue;">Enter number y:</span> 3 
-<span style="color:skyblue;">X**y =  8
-log(x) = 1 </span>
-
-<br>
 ### Problem Set 1.
