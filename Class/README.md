@@ -11,9 +11,10 @@ Write a program that does the following in order:
 3. Prints out number “x”, raised to the power “y”. 
 4. Prints out the log (base 2) of “x”.  
 
+##### Example:
 Enter number x: 2 <br />
 Enter number y: 3 <br />
-X**y =  8 <br />
+X**y =  8 g<br />
 log(x) = 1
 
 ### Problem Set 1.
