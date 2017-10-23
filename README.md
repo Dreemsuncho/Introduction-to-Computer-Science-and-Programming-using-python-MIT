@@ -1,22 +1,5 @@
-# Introduction to Computation and Programming Using Python exercises (book):
+# Introduction to Computation and Programming Using Python:
 
-##### Problem 01.
-Write a program that examines three variables—x, y, and z—
-and prints the largest odd number among them. If none of them are odd, it
-should print a message to that effect.
+6.0001 Introduction to Computer Science and Programming in Python is intended for students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems and to help students, regardless of their major, feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals.
 
-##### Problem 02.
-Write a program that asks the user to input 10 integers, and
-then prints the largest odd number that was entered. If no odd number was
-entered, it should print a message to that effect.
-
-##### Problem 03.
-Write a program that asks the user to enter an integer and
-prints two integers, root and pwr, such that 0 < pwr < 6 and root**pwr is equal
-to the integer entered by the user. If no such pair of integers exists, it should
-print a message to that effect.
-
-##### Problem 04.
-Let s be a string that contains a sequence of decimal numbers
-separated by commas, e.g., s = '1.23,2.4,3.123'. Write a program that prints
-the sum of the numbers in s.    
+###### This repository contains full stack of book and class assignments for entire MIT course ☺
