@@ -19,4 +19,18 @@ print a message to that effect.
 * #### Finger exercise 04.
 Let s be a string that contains a sequence of decimal numbers
 separated by commas, e.g., s = '1.23,2.4,3.123'. Write a program that prints
-the sum of the numbers in s.    
+the sum of the numbers in s.
+
+* #### Finger exercise 05.
+What would have to be changed to make the code in Figure 3.4 work for 
+finding an approximation to the cube root of both negative and positive numbers? 
+(Hint: think about changing low to ensure that the answer lies within the region being searched.)
+
+* #### Finger exercise 06.
+Add some code to the implementation of Newton-Raphson that keeps track of the number of iterations used to find the root. Use that code as part of a program that compares the efficiency of Newton-Raphson and bisection search. (You should discover that Newton-Raphson is more efficient.)
+
+* #### Finger exercise 07.
+Write a function isIn that accepts two strings as arguments and returns True if either string occurs anywhere in the other, and False otherwise. Hint: you might want to use the built-in str operation in.
+
+* #### Finger exercise 08.
+Finger exercise: When the implementation of fib in Figure 4.7 is used to compute fib(5), how many times does it compute the value of fib(2) on the way to computing fib(5)?
