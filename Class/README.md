@@ -17,8 +17,6 @@
     X**y =  8 g<br />
     log(x) = 1
 
-<br />
-
 ### Problem Set 1.
 
 * #### House Hunting: [ps1A.py](https://github.com/Dreemsuncho/Introduction-to-Computer-Science-and-Programming-using-python-MIT/blob/master/Class/ps1/ps1A.py)
@@ -45,7 +43,7 @@
    <br/> Number of months: 105
    <br/> >>>
 
-* #### Saving, with a raise: [ps1.py](https://github.com/Dreemsuncho/Introduction-to-Computer-Science-and-Programming-using-python-MIT/blob/master/Class/ps1/ps1B.py)
+* #### Saving, with a raise: [ps1B.py](https://github.com/Dreemsuncho/Introduction-to-Computer-Science-and-Programming-using-python-MIT/blob/master/Class/ps1/ps1B.py)
     Write a program to calculate how many months it will take you save up enough money for a down
     payment.  LIke before, assume that your investments earn a return of r​ = 0.04 (or 4%) and the
     required down payment percentage is 0.25 (or 25%).  Have the user enter the following variables:
