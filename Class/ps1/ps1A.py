@@ -21,3 +21,4 @@ while current_savings < portion_down_payment:
     months += 1
 
 print('Number of months:', months)
+    
