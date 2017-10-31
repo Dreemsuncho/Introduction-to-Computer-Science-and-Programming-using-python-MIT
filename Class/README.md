@@ -87,9 +87,9 @@
     * A) Getting Started <br/>
             Download the files “hangman.py” and “words.txt”, and ​save them both in the same  directory​. Run the file hangman.py before writing any code to ensure your files are  saved correctly. The code we have given you loads in words from a file. You should  see the following output in your shell:            
                 <br/>
-                Loading word list from file...
+               * Loading word list from file...
                 <br/> 
-                55900 words loaded.
+               * 55900 words loaded.
                 <br/>
             If you see the above text, continue on to Hangman Game Requirements. If you don’t, double check that both files are saved in the same place!  
     * B) Hangman Game Requirement <br/>
