@@ -34,3 +34,20 @@
 
 * #### Finger exercise 08.
     Finger exercise: When the implementation of fib in Figure 4.7 is used to compute fib(5), how many times does it compute the value of fib(2) on the way to computing fib(5)?
+
+* #### Finger exercise 09.
+    Finger exercise: Implement a function that meets the specification below. Use a try-except block.
+    ```
+    def sumDigits(s):
+    """Assumes s is a string
+    Returns the sum of the decimal digits in s
+    For example, if s is 'a2b3c' it returns 5"""
+    ```
+    
+* #### Finger exercise 10.
+     Implement a function that satisfies the specification 
+     ```
+     def findAnEven(L):
+     """Assumes L is a list of integers Returns the first even number in L
+     Raises ValueError if L does not contain an even number"""
+     ```
