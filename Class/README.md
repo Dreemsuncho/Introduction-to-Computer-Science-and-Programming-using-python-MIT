@@ -7,7 +7,7 @@
 * #### Problem Set 1 
     This problem set will introduce you to using control flow in Python and formulating a computational  solution to a problem.  It will also give you a chance to explore bisection search.  This problem set has  three ​problems.  You should save your code for the first problem as ​ps1a.py​, the second problem as  ps1b.py​ and the third problem as ​ps1c.py​, and make sure to hand in all three files.  Don't forget to  include comments to help us understand your code!
 	
-* ### Problem Set 2
+* #### Problem Set 2
     This problem set will introduce you to the topic of creating functions in Python, as well  as looping mechanisms for repeating a computational process until a condition is  reached. 
 
 * #### Problem Set 3
