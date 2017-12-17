@@ -59,5 +59,6 @@ target/
 out
 node_modules
 *.vsix
+.vscode/*
 .vscode/symbols.json
 .vscode-test
