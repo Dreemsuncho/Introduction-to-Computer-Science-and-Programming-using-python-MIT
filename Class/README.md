@@ -22,5 +22,5 @@ Let's begin by describing the word game: This game is a lot like Scrabble or Wor
  
     As always, please do not rename the files we provide you with, change any of the provided helper functions, change function/method names, or delete provided docstrings. You will need to keep ​words.txt​ and ​story.txt​ in the same folder in which you store ​ps4a.py, ps4b.py​ and ​ps4c.py​. 
 	
-	## Problem Set 5.
+	* #### Problem Set 5.
 	You will use object-oriented programming (classes and inheritance) to build a program to monitor news feeds over the Internet. Your program will filter the news, alerting the user when it notices a news story that matches that user's interests (for example, the user may be interested in a notification whenever a story related to the Red Sox is posted).
